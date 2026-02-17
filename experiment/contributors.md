@@ -2,4 +2,4 @@
 
 | SNo. | Name          | Email             | Institute     | ID  |
 | ---- | ------------- | ----------------- | ------------- | --- |
-| 1    | T﻿EENA SHARMA | t﻿eena@iitg.ac.in | I﻿IT GUWAHATI |     |
+| 1    | TEENA SHARMA | t﻿eena@iitg.ac.in | I﻿IT GUWAHATI |    
